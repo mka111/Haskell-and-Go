@@ -1,2 +1,2 @@
 # Haskell
-Projects and small coding exercises written in Haskell and Go
+Projects and coding exercises written in Haskell and Go
